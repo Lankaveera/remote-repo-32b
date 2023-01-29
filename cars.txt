@@ -7,7 +7,4 @@ bmw
 pigeot
 volkswagen
 das auto 
-scania
-renault
-volvo
 
