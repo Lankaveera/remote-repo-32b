@@ -6,5 +6,5 @@ merc
 bmw
 pigeot
 volkswagen
-das auto 
+ 
 
