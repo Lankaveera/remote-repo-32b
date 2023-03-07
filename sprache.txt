@@ -3,4 +3,6 @@ osterish
 swiss
 polish
 chezch
-
+telugu 
+kannada
+malayalam
